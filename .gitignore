@@ -1,0 +1,58 @@
+### Windows ###
+### -----------------
+# Windows thumbnail cache files
+Thumbs.db
+
+# Windows shortcuts
+*.lnk
+
+### macOS ###
+### -----------------
+# General
+.DS_Store
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+### Node ###
+node_modules/
+
+### Composer ###
+composer.phar
+/vendor/
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+### direnv ###
+.direnv
+.envrc
+
+### dotenv ###
+.env
+
+### Ansible ###
+.ansible/
+*.retry
+
+### その他キャッシュ/ログ ###
+tmp/
+.cache/
+*.log
+
+### その他コーディングAI ###
+.opencode/
+.agents/
+
+### 作業プラン/チェックリスト/引き継ぎ資料 ###
+workplan-*.md
+checklist-*.md
+handoff-*.md
