@@ -14,11 +14,11 @@ AI活用事例
 - PR文・説明文の作成
 - 下書き・たたき台生成
 
-### 2. [図解・イラスト作成](examples/visual-creation/README.md)
+### 2. [画像作業](examples/image-work/README.md)
 
-- 記事や資料に使うイラスト作成
-- フローや手順を図で整理
-- 複雑な内容をわかりやすく図解
+- キーワード・テーマからイラストを生成する
+- 既存の写真を加工・編集する
+- テキスト・データから図解・ダイアグラムを生成する
 
 ### 3. [お金の管理](examples/money-management/README.md)
 
