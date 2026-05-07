@@ -14,7 +14,7 @@ AI活用事例
 - PR文・説明文の作成
 - 下書き・たたき台生成
 
-### 2. [画像作業](examples/image-work/README.md)
+### 2. [画像生成・加工](examples/image-work/README.md)
 
 - キーワード・テーマからイラストを生成する
 - 既存の写真を加工・編集する
