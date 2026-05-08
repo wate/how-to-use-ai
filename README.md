@@ -32,20 +32,15 @@ AI活用事例
 - 週次／月次の振り返り
 - 自己改善の気づき
 
-### 5. [タスクの整理・優先順位付け](examples/task-prioritization/README.md)
-
-- 思いついたタスクの整理
-- 優先順位付け
-- 「今やること」の抽出
-
-### 6. [相談・考え整理](examples/decision-support/README.md)
+### 5. [相談・考え整理](examples/decision-support/README.md)
 
 - 何に迷っているかの整理
 - 選択肢・判断軸の提示
+- タスクの優先順位付け
 - 内容の確認やリスクの洗い出し
 - 次のアクション明確化
 
-### 7. [見直し・整理](examples/review/README.md)
+### 6. [見直し・整理](examples/review/README.md)
 
 - 月次・四半期の振り返り
 - 大掃除・整理
@@ -56,3 +51,6 @@ AI活用事例
 
 - 各カテゴリの具体例を追加予定
 - 実際の使い方・テンプレートを公開予定
+
+
+---
