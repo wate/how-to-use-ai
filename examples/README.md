@@ -97,6 +97,6 @@ ChatGPT・Gemini の無料プランおよび個人プランは、デフォルト
 | お金の管理       | [money-management](./money-management/README.md)   | 公開中 |
 | 文章作成         | [writing](./writing/README.md)                     | 公開中 |
 | 画像生成・加工   | [image-work](./image-work/README.md)               | 公開中 |
-| 記録・ふりかえり | [daily-logs](./daily-logs/README.md)               | 準備中 |
+| 記録・ふりかえり | [lifelog](./lifelog/README.md)                       | 準備中 |
 | 相談・考え整理   | [decision-support](./decision-support/README.md)   | 公開中 |
 | 見直し・整理     | [review](./review/README.md)                       | 準備中 |
