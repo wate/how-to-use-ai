@@ -24,6 +24,10 @@ node_modules/
 composer.phar
 /vendor/
 
+### Python / uv ###
+.venv/
+__pycache__/
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
@@ -43,6 +47,9 @@ composer.phar
 .ansible/
 *.retry
 
+### Task ###
+.task/
+
 ### その他キャッシュ/ログ ###
 tmp/
 .cache/
@@ -52,7 +59,12 @@ tmp/
 .opencode/
 .agents/
 
-### 作業プラン/チェックリスト/引き継ぎ資料 ###
-workplan-*.md
-checklist-*.md
-handoff-*.md
+### 作業プラン / チェックリスト / 引き継ぎ資料 / レビュー結果 ###
+/workplan-*.md
+/checklist-*.md
+/handoff-*.md
+/review-*.md
+/review-*.csv
+
+### MkDocs / Zensical ###
+site/
